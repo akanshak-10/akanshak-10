@@ -69,7 +69,7 @@ Analyzed 100M+ records improving operational efficiency by **15%**
 - 📧 Email: akanshak.jobs@gmail.com
 - 📍 Location: United States
 - 💼 LinkedIn: 
-- 🌐 Portfolio: 
+- 🌐 Portfolio: https://akanshak-10.github.io/
 
 ### 💡 Fun Fact
 I've worked with datasets exceeding 100 million records and love turning massive data into meaningful insights that drive real business impact!
